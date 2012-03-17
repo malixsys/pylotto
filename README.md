@@ -1,12 +1,6 @@
 Py Lotto
 ===============
 
-Current version
-----------------
-``
-0.5
-``
-
 Installation
 ------------
 
@@ -33,7 +27,7 @@ node_modules\.bin\jasmine-node --coffee spec
 
 Execution
 ------------
-node lotto.js [command]
+'node lotto.js' *command*
 
 Ex.
 
