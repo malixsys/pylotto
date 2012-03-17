@@ -38,8 +38,8 @@ node lotto.js achat "Pierre Poutine"
 Commands
 ------------
 * **status** - Displays a JSON of the internal status
-* **effacer** `amount` - Resets the status, with `amount` cash (200, if ommited)
-* **achat `name`** or **achat "`name with spaces`"** - buys a ticket for name
+* **effacer** `amount` - Resets the status, with _amount_ cash (200$, if ommited)
+* **achat _name_** or **achat "_name with spaces_"** - buys a ticket for _name_ 
 * **tirage** - draws three winners
 * **gagnants** - displays a table of winners
 
