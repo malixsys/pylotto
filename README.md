@@ -5,7 +5,7 @@ Installation
 ------------
 
 * Install Node.js: http://nodejs.org/#download
-* Install NPM: http://npmjs.org/dist
+* Install NPM, if needed: http://npmjs.org/dist
 * Install _jasmine-node_ `npm install jasmine-node`
 * Install _coffee-script_ `npm install coffee-script`
 * Clone this repo `git clone https://github.com/malixsys/pyloto.git`
