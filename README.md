@@ -10,10 +10,10 @@ Installation
 * Install _coffee-script_ `npm install coffee-script`
 * Clone this repo `git clone https://github.com/malixsys/pyloto.git`
 
-Tests
+Run Specifications
 ------------
 ``
-node_modules\.bin\jasmine-node --coffee spec
+node_modules\.bin\jasmine-node --coffee specs/
 ``
 
 Execution
