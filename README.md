@@ -34,7 +34,9 @@ node_modules\.bin\jasmine-node --coffee spec
 Execution
 ------------
 node lotto.js [command]
+
 Ex.
+
 ``
 node lotto.js achat "Pierre Poutine"
 ``
